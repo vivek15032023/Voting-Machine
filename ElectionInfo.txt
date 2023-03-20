@@ -1,0 +1,7 @@
+Username : Admin
+Password : admin
+
+Student Panel Username: (1) Year which You have given in the year section.
+				  (2) branch code
+				  (3) 000
+				  (4) Roll no 
