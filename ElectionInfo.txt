@@ -1,7 +1,9 @@
 Username : Admin
 Password : admiN
 
-Student Panel Username: (1) Year which You have given in the year section.
-			(2) branch code
-			(3) 000
+Student Panel Username: (1) Year which You have given in the year section in admin panel
+			(2) branch code shuold be in string
+			(3) 000 this should be anything
 			(4) Roll no 
+
+note: The username should be 14 characters.
